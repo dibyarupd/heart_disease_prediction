@@ -11,7 +11,8 @@ html {
 
 @font-face {
     font-family: Anime Ace;
-    src: url("../fonts/anime_ace_bb/animeace2bb_tt/animeace2_reg.ttf");
+    src: url("../fonts/anime_ace/animeace2_reg.ttf");
+    
 }
 
 body {
